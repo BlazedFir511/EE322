@@ -2,6 +2,7 @@
 ## For Design VI
 > This should hold all of my labs and assignments in the class and will most likely be public.
 >  - Kavin Mohan
+
 This is __bolded__ and this is _italic_
 My Sports Teams
 - Buffalo Bills
