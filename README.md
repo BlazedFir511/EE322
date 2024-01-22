@@ -18,6 +18,19 @@ How I'd rank them by my following
 4. Real Madrid
 ---
 Bills Mafia Link: https://nypost.com/2024/01/21/sports/fan-catches-fire-tailgating-with-bills-mafia-before-chiefs-game/
----
+
 ![Raptors Logo](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_550/MTY4MjU2Mjg4OTkxMzU2ODI5/toronto-raptors-new-logo.webp)
----
+
+`# Replace ___ with your code
+
+# create variable number1 with value 9
+number1 = 9
+
+# create variable number2 with value 5
+number2 = 5
+
+# add number1 and number2
+result = number1 ___ number2
+
+# print result
+print(result)`
