@@ -4,7 +4,7 @@
 >  - Kavin Mohan
 ---
 This is __bolded__ and this is _italic_
----
+
 My Sports Teams
 - Buffalo Bills
 - Toronto Raptors
