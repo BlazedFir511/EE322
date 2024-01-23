@@ -20,6 +20,7 @@ How I'd rank them by my following
 [Bills Mafia Link](https://nypost.com/2024/01/21/sports/fan-catches-fire-tailgating-with-bills-mafia-before-chiefs-game/)
 
 Will I ever find a good picture on my computer
+
 ![GIF](https://media1.tenor.com/m/WtfJo0beYhgAAAAd/no-i-dont-think-i-will.gif)
 
 `print(result) or something`
