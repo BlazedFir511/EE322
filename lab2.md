@@ -11,7 +11,7 @@ The picture below is the nano file, which essentially acts as a text editor
 
 ![Screenshot 2024-02-12 141230](https://github.com/BlazedFir511/EE322/assets/65604948/0e1f5cc1-7ab9-4b13-bf82-b08f22fd62b3)
 
-The man file could not open unless the man package was installed to MSYS.  I typed pacman -S man in order to make the file readable
+The man file could not open unless the man package was installed to MSYS.  I typed `pacman -S man` in order to make the file readable
 
 ![Screenshot 2024-02-12 141329](https://github.com/BlazedFir511/EE322/assets/65604948/1a531386-8424-45eb-ac03-091ad882e765)
 
