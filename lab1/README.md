@@ -11,6 +11,7 @@ Here is the GTKWave simulation of the half-adder program
 ![Screenshot 2024-02-12 182841](https://github.com/BlazedFir511/EE322/assets/65604948/c5729203-efd6-4757-90e5-cca8abd46b99)
 
 The code I used to execute this program is below:
+
 ![Screenshot 2024-02-12 182903](https://github.com/BlazedFir511/EE322/assets/65604948/429f26a2-6460-4347-8f97-3ab7f43db2d1)
 
 
