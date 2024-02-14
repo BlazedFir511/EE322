@@ -1,17 +1,17 @@
 # Kavin Mohan's EE322 Repository
 ## For Design VI
-> This should hold all of my labs and assignments in the class and will most likely be public.
+> I am a 3/4 Electrical Engineer with a concentration in Robotics and Control.  
 >  - Kavin Mohan
 ---
 This is __bolded__ and this is _italic_
 
-My Sports Teams
-- Buffalo Bills
-- Toronto Raptors
-- Real Madrid
-- Chelsea
+Some random interests
+- Technology
+- Geography
+- Music
+- Transportation
 ---
-How I'd rank them by my following
+How I'd rank sports teams by my following
 1. Buffalo Bills
 2. Toronto Raptors
 3. Chelsea
@@ -19,8 +19,13 @@ How I'd rank them by my following
 ---
 [Bills Mafia Link](https://nypost.com/2024/01/21/sports/fan-catches-fire-tailgating-with-bills-mafia-before-chiefs-game/)
 
-Will I ever find a good picture on my computer?
+Went to Virginia over the summer, so I have a picture from that.  Probably the most interesting thing in Virginia, funny enough.
 
-![GIF](https://media1.tenor.com/m/WtfJo0beYhgAAAAd/no-i-dont-think-i-will.gif)
+![image](https://github.com/BlazedFir511/EE322/assets/65604948/dc9e8cae-dd03-4cfc-9cb3-fe77003da72a)
 
-`print(result) or something`
+Got my first Java code here:
+`class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}`
