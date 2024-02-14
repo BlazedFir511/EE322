@@ -1,6 +1,6 @@
 # Kavin Mohan's EE322 Repository
 ## For Design VI
-> I am a 3/4 Electrical Engineer with a concentration in Robotics and Control.  
+> I am a 3/4 Electrical Engineer with a concentration in Robotics and Control.  My goal this semester is to do an individual project.  I need something to expand my knowledge in this field, especially since we have not had a lab in three semesters.  This can be a software-based project, but programming hardware can also be an option.
 >  - Kavin Mohan
 ---
 Fun Fact: I'm __not__ Indian
