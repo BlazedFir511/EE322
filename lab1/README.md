@@ -10,7 +10,7 @@ The code I used to execute this program is below:
 ---
 
 ## D Flip-Flop
-Here is the GTKWave simulation of the half-adder program:
+Here is the GTKWave simulation of the flip-flop program:
 
 ![Screenshot 2024-02-12 182841](https://github.com/BlazedFir511/EE322/assets/65604948/c5729203-efd6-4757-90e5-cca8abd46b99)
 
