@@ -4,7 +4,7 @@ I installed the libraries first, took about 5-10 minutes
 ![Screenshot 2024-03-18 224820](https://github.com/BlazedFir511/EE322/assets/65604948/9d7c3fa2-f44b-4148-8ec8-cc07befa91fc)
 
 ---
-Once I ran the plt_final file, I got 6 graphs
+Once I ran the plt_final file, I got 6 graphs.  The data came from the cpudata google sheets in the previous page (Lab 7).
 
 The first graph doesn't have its x-axis fixed, thus the skew
 
