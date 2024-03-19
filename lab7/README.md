@@ -16,6 +16,8 @@ Then, I got the cpu_spreadsheet file running after inserting the key into the na
 
 ![Screenshot 2024-03-18 220853](https://github.com/BlazedFir511/EE322/assets/65604948/ad5de249-3617-48e4-8cb9-3b3251e29aad)
 
+I got the google sheets running in class, and decided to put some more values after class.
+
 ![Screenshot 2024-03-18 220913](https://github.com/BlazedFir511/EE322/assets/65604948/43d1556b-eb73-4618-95bf-756038cf0fd4)
 
 
