@@ -6,6 +6,8 @@ I installed the libraries first, took about 5-10 minutes
 ---
 Once I ran the plt_final file, I got 6 graphs
 
+The first graph doesn't have its x-axis fixed, thus the skew
+
 ![Screenshot 2024-03-18 225219](https://github.com/BlazedFir511/EE322/assets/65604948/60757223-7822-4e84-ab9f-33bf34d952ae)
 ![Screenshot 2024-03-18 225231](https://github.com/BlazedFir511/EE322/assets/65604948/54c340de-a019-4cac-b20f-708c45fab8a8)
 ![Screenshot 2024-03-18 225237](https://github.com/BlazedFir511/EE322/assets/65604948/c975a84a-3535-4771-859b-c38fc388f364)
