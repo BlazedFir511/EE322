@@ -9,8 +9,11 @@ Once I ran the plt_final file, I got 6 graphs.  The data came from the cpudata g
 The first graph doesn't have its x-axis fixed, thus the skew
 
 **This is the old Figure 1**
+
 ![Screenshot 2024-03-18 225219](https://github.com/BlazedFir511/EE322/assets/65604948/60757223-7822-4e84-ab9f-33bf34d952ae)
+
 **This is the updated Figure 1 after I changed the data to solely use the second part of lab 7 data (around 10:00)**
+
 ![image](https://github.com/BlazedFir511/EE322/assets/65604948/0efdaca8-b03a-41c6-8b29-16958acd171b)
 
 ![Screenshot 2024-03-18 225231](https://github.com/BlazedFir511/EE322/assets/65604948/54c340de-a019-4cac-b20f-708c45fab8a8)
