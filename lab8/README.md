@@ -1,5 +1,5 @@
 # Lab 8
-I installed the libraries first, took about 5-10 minutes
+I installed the libraries first, took about 5-10 minutes.  **UPDATED TODAY**
 
 ![Screenshot 2024-03-18 224820](https://github.com/BlazedFir511/EE322/assets/65604948/9d7c3fa2-f44b-4148-8ec8-cc07befa91fc)
 
