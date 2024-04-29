@@ -32,7 +32,7 @@ Got my first Java code here:
 
 ---
 
-Labs:
+##Labs:
 
 - [Lab 1](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab1)
 - [Lab 2](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab2)
