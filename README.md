@@ -34,25 +34,25 @@ Got my first Java code here:
 
 Labs:
 
-[Lab 1] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab1)
+[Lab 1](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab1)
 
-[Lab 2] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab2)
+[Lab 2](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab2)
 
-[Lab 3] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab3)
+[Lab 3](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab3)
 
-[Lab 4] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab4)
+Lab 4
 
-[Lab 5] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab5)
+[Lab 5](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab5)
 
-[Lab 6] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab6)
+[Lab 6](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab6)
 
-[Lab 7] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab7)
+[Lab 7](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab7)
 
-[Lab 8] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab8)
+[Lab 8](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab8)
 
-[Lab 9] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab9)
+[Lab 9](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab9)
 
-[Lab 10] (https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab10)
+[Lab 10](https://github.com/BlazedFir511/EE322/tree/cd9216900c6aea06e80504c4df7dbd3d4e13ff7e/lab10)
 
 
 
